@@ -8,8 +8,11 @@ have to re-derive it.
 > fear / authoritarianism, toward **cancer coaching** — advising patients and
 > their families through diagnosis, treatment, and the logistics of serious
 > illness. Most of the archive and voice notes below describe the *old*
-> direction. Read "The pivot" section before proposing anything. Active scrub of
-> risky material in `SCRUB-CHECKLIST.md`.
+> direction. Read "The pivot" section before proposing anything.
+>
+> **Companion files:** `MASTER-CHECKLIST.md` — every delete/edit/change action,
+> phased (supersedes the old scrub and triage files). `VOICE-NOTES.md` — craft
+> critique; what to reproduce and what to avoid when drafting in her voice.
 
 ## Publication identity
 
@@ -202,7 +205,15 @@ wants is achievable through structure and voice.
 ### Archive disposition — DECIDED 2026-07-24
 Unlist the irreducibly political essays; keep the portable nervous-system ones
 as raw material for re-editing; open with a "why this is changing" post.
-Full essay-by-essay breakdown in `ARCHIVE-TRIAGE.md`.
+Full essay-by-essay breakdown in `MASTER-CHECKLIST.md`.
+
+**"Coming Down the Hill" is kept as-is by explicit decision (2026-07-24)** —
+including the passage about her own hospitalization, unexplained presentation,
+and high-dose prednisone. She was shown that it sits in tension with the
+disclosure boundary above and chose to keep it. Do not re-raise this.
+
+The `CatsupFarmsFreedomLab.com` "Discombobulator" link is **her own personal
+site**, not a sponsorship. Being removed anyway.
 
 ### Business model — DECIDED 2026-07-24
 - **Will not** take money to advise individuals. This is the bright line and it
