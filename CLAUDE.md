@@ -124,8 +124,27 @@ politics — "I'm not a politics person."
   cancer (or loving someone who does) is bewildering to navigate. The newsletter
   formalizes something she's been doing for years.
 
-*Handle this material carefully — it's hers, it's personal, and how much of it
-goes public is still undecided (see open questions).*
+### Disclosure boundary (decided 2026-07-24) — IMPORTANT, follow exactly
+
+**Open — write freely about:**
+- Her father: his cancer, the roughly eight years he was sick, his death when
+  she was eighteen.
+- The family history of cancer generally.
+- Experiences with friends and family who have had cancer — *subject to their
+  own consent; other people's diagnoses are their story to tell, not hers.*
+
+**Limited — the agreed formulation and no further:**
+- Her own cancer: that she had it, that she is in remission, and that it was
+  emotionally very difficult. **That is the whole of it.**
+- **Do not** write or draft specifics of her own diagnosis — type, stage,
+  treatment, dates, prognosis, current surveillance. As a physician she does not
+  want her own health particulars public. Do not infer or invent them, and do not
+  push her toward more disclosure because it would make a stronger essay.
+
+**Protect:** her wife and children. Her family knows about her illness; the
+public boundary is hers to set, not theirs to absorb. Note the published essays
+use "my spouse" — worth a deliberate decision about the register going forward
+rather than letting it vary post to post.
 
 ### Register: "adviser," not "doctor"
 She wants to shift out of the authority/lecturer voice into something closer to
@@ -157,20 +176,37 @@ wants is achievable through structure and voice.
 - The "fake racial supremacy" bio.
 - The fear-and-authoritarianism thesis as the organizing idea.
 
-### Archive disposition — recommendation given, not yet decided
-16 political essays under a cancer-coaching masthead is dissonant, but deleting
-everything discards real writing. Suggested: unlist/delete the irreducibly
-political pieces; consider re-editing the 3–4 portable nervous-system essays
-with the political frame stripped out. Cleanest version is a fresh start plus a
-"why this is changing" opening post — that post is itself the strongest possible
-first piece for the new direction.
+### Archive disposition — DECIDED 2026-07-24
+Unlist the irreducibly political essays; keep the portable nervous-system ones
+as raw material for re-editing; open with a "why this is changing" post.
+Full essay-by-essay breakdown in `ARCHIVE-TRIAGE.md`.
 
-## Open questions (asked 2026-07-24, not yet answered)
+### Business model — DECIDED 2026-07-24
+- **Will not** take money to advise individuals. This is the bright line and it
+  is the right one — preserve it.
+- Wants: the newsletter, a series of **books**, **groups**, **podcasts**, and
+  **AMA-style chats**.
+- Frames this as wearing an **"adviser" hat, not a "physician" hat** — two
+  separate roles.
 
-1. **How much of her own story goes public** — her father's illness and death,
-   her own cancer? This determines the whole voice of the relaunch. Once it's
-   out, it's out.
-2. **Archive:** delete, unlist, or keep the political essays?
-3. **Is cancer coaching a business or a newsletter?** If she ever takes money to
-   advise individuals, the liability and regulatory posture changes
-   substantially versus writing publicly. Materially changes the advice.
+**Standing caution to carry into any future advice on the interactive formats:**
+the hat-switch is not a distinction that holds up externally. A licensed
+physician remains subject to board jurisdiction outside a formal practice, and
+declaring a different role does not undo that; readers will also hear "doctor"
+regardless, since the MD is precisely where her credibility comes from. Invoking
+physician expertise for authority while disclaiming it for responsibility is not
+a stable position.
+
+The distinction that *does* hold is **general education vs. individualized
+advice** — and it is a distinction of substance, not of labeling or payment.
+Writing to an audience about how tumor boards work, what questions to ask, and
+what waiting does to a nervous system is durable ground. Responding to "here is
+my situation, what should I do" is not, paid or unpaid.
+
+Risk by format, lowest to highest: **books and newsletter** (low, one-to-many,
+clearly educational) → **podcasts** (low if general) → **groups and AMAs**
+(highest — live, specific, individual). She was advised to structure groups/AMAs
+around general questions, decline case specifics, keep a stock redirect to the
+listener's own oncology team, and consider a moderator; and to run the
+interactive formats past her malpractice carrier and a healthcare attorney
+before launch. The newsletter itself does not need that.
