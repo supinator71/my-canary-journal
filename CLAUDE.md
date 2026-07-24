@@ -184,10 +184,16 @@ Full essay-by-essay breakdown in `ARCHIVE-TRIAGE.md`.
 ### Business model — DECIDED 2026-07-24
 - **Will not** take money to advise individuals. This is the bright line and it
   is the right one — preserve it.
-- Wants: the newsletter, a series of **books**, **groups**, **podcasts**, and
-  **AMA-style chats**.
-- Frames this as wearing an **"adviser" hat, not a "physician" hat** — two
-  separate roles.
+- Formats, as narrowed 2026-07-24: the **newsletter**, a series of **books**,
+  **educational videos** on her existing `clinicallens` YouTube channel, and
+  **written Q&A** — responding publicly to general-education questions readers
+  send in.
+- **Groups and AMAs are dropped.** She raised and discarded them herself; no
+  live/interactive formats planned. Podcasts also dropped in favor of video.
+- She initially framed this as an **"adviser" hat vs. a "physician" hat**, and
+  on discussion agreed that framing doesn't hold up — she explicitly does not
+  want to claim expertise while disclaiming responsibility. The working
+  distinction is general education vs. individualized advice (below).
 
 **Standing caution to carry into any future advice on the interactive formats:**
 the hat-switch is not a distinction that holds up externally. A licensed
@@ -203,10 +209,33 @@ Writing to an audience about how tumor boards work, what questions to ask, and
 what waiting does to a nervous system is durable ground. Responding to "here is
 my situation, what should I do" is not, paid or unpaid.
 
-Risk by format, lowest to highest: **books and newsletter** (low, one-to-many,
-clearly educational) → **podcasts** (low if general) → **groups and AMAs**
-(highest — live, specific, individual). She was advised to structure groups/AMAs
-around general questions, decline case specifics, keep a stock redirect to the
-listener's own oncology team, and consider a moderator; and to run the
-interactive formats past her malpractice carrier and a healthcare attorney
-before launch. The newsletter itself does not need that.
+With groups and AMAs dropped, the remaining plan — newsletter, books, YouTube,
+written Q&A — is an ordinary posture that many physician-writers occupy. A
+one-time conversation with her malpractice carrier is prudent before launch, but
+it is not a gating item the way it would have been for live formats.
+
+### Reader Q&A — the working method
+
+Reader questions are **welcome and encouraged**; the technique is to *answer the
+general question underneath the specific one.* Someone writes in with their
+mother's stage and regimen and asks whether it's right — the answer never
+addresses that. It addresses the category: what neoadjuvant treatment is, why
+teams sequence it that way, and how to ask their own oncologist why *this* plan
+for *this* person. Strip the case, answer the category, hand the specific
+question back to their team with better tools for asking it.
+
+Supporting rules:
+- **Reformulate before answering.** Publish the question, not the questioner —
+  never quote case details back.
+- **The redirect is content, not a disclaimer.** "Here's how to ask your team so
+  you get a real answer" is among the most valuable things she can offer.
+- **Stay public and asynchronous.** Written Q&A preserves the editorial control
+  a live format destroys. Do not take case-specific exchanges into DMs — that is
+  where something starts to resemble a relationship.
+- **Pin a standing note** on what she does and doesn't answer, so expectations
+  are set before someone pours out their case.
+
+This doubles as a content engine: reader questions → general-education essays,
+the classic advice-column structure, and it addresses the underserved-gap
+problem she identified (patients get pamphlets and terrifying search results;
+the "what does this mean and what happens next" layer is missing).
