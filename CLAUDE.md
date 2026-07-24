@@ -17,6 +17,29 @@ have to re-derive it.
 - **Author:** board-certified psychiatrist, 20+ years, built her career on the
   hardest cases — incarcerated patients, severely/chronically ill, people the
   system had written off. Currently runs a small virtual (telepsychiatry) practice.
+
+### Credentials — state precisely, never inflate (clarified 2026-07-24)
+
+- **Is:** board-certified in **general psychiatry**, 20+ years in practice.
+- **Is not:** a consult-liaison psychiatrist (no CL fellowship), an oncologist,
+  or a **psycho-oncologist**. Psycho-oncology is a real fellowship subspecialty;
+  never use that label or imply it, and never let copy drift toward
+  "specializes in oncology."
+- **How the expertise was actually built:** she wanted a fellowship but had a
+  family during residency and was the breadwinner, so she could never go back.
+  She self-studied, worked closely with local oncologists, and built the
+  practice that way. Legitimate and hard-won — describe it accurately rather
+  than dressing it up.
+
+**Where she speaks from authority vs. where she cites:**
+- *Authority (board-certified, 20 years):* what serious illness does to a
+  nervous system and a family; fear, waiting, dread, habituation; who gets
+  believed; how people and families behave under sustained threat; navigating
+  systems that were not built for the patient.
+- *Translator, citing sources:* oncology facts — staging, regimens, sequencing,
+  prognosis. She can explain these well and should, but as a skilled curator
+  pointing at good sources (NCI, published guidelines), not as the clinical
+  authority on them. This is what "evidence first, always" should mean now.
 - **Core clinical thesis** (from the About page, her strongest material):
   outcomes were almost never about diagnosis — they were about whether the
   patient had a bed, a locked door, food, someone who believed them. "Health is
