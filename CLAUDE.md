@@ -2,8 +2,14 @@
 
 Working memory on Supriya Kang, MD's Substack (`@clinicallens`, "The Clinical Lens"),
 built from a full export reviewed 2026-07-24. Kept here so future sessions don't
-have to re-derive it. Supriya is mid-pivot on positioning/voice as of this writing —
-see "Open thread" at the bottom.
+have to re-derive it.
+
+> **⚠️ THE PUBLICATION IS PIVOTING (decided 2026-07-24).** Away from politics /
+> fear / authoritarianism, toward **cancer coaching** — advising patients and
+> their families through diagnosis, treatment, and the logistics of serious
+> illness. Most of the archive and voice notes below describe the *old*
+> direction. Read "The pivot" section before proposing anything. Active scrub of
+> risky material in `SCRUB-CHECKLIST.md`.
 
 ## Publication identity
 
@@ -104,9 +110,67 @@ accounts (Robert Reich, Qasim Rashid, etc.) on Notes for discovery.
 5. Notes-as-essay-preview pattern is good, could be intentional/systematic.
 6. Audience is small; don't over-read per-post open-rate differences yet.
 
-## Open thread
+## The pivot (2026-07-24)
 
-Supriya said (2026-07-24) she's "wanting to pivot a bit" on the newsletter —
-direction not yet specified. Next session should ask what the pivot is
-(topic focus, voice, cadence, monetization, something else) before proposing
-changes, rather than assuming it continues straight from the feedback above.
+**New subject: cancer coaching.** Advising patients and families through
+diagnosis, treatment, and the logistics of serious illness. Explicitly *not*
+politics — "I'm not a politics person."
+
+### Why her, in her own words
+- Always been most drawn to patients with cancer, AIDS, chronic/debilitating illness.
+- **Her father had cancer — sick roughly eight years, died when she was eighteen.**
+- **She has had cancer herself.** It runs in the family.
+- Family and friends already come to her for this informally, because having
+  cancer (or loving someone who does) is bewildering to navigate. The newsletter
+  formalizes something she's been doing for years.
+
+*Handle this material carefully — it's hers, it's personal, and how much of it
+goes public is still undecided (see open questions).*
+
+### Register: "adviser," not "doctor"
+She wants to shift out of the authority/lecturer voice into something closer to
+a companion or navigator. **Read this as a voice choice, not a credential
+choice** — the recommendation given was to keep the MD visible (it's what makes
+the navigation advice trustworthy, and shedding it while still trading on
+physician knowledge is the worst of both worlds) while strengthening the
+existing "I'm a doctor. I'm not your doctor." disclaimer. The register she
+wants is achievable through structure and voice.
+
+### What survives the pivot
+- **The vignette → mechanism → practical point structure.** Fits cancer coaching
+  better than it fit politics.
+- **"Health is housing. Health is safety. Health is being believed."** Survives
+  completely intact — arguably more at home here, since not being believed and
+  not being able to navigate the system are the central complaints of seriously
+  ill patients. Strong candidate for the new masthead thesis.
+- **The nervous-system expertise maps directly:** scanxiety ≈ the freeze;
+  waiting on results ≈ habituation and dread; "The Drug I Did Not Know I Was On"
+  (compulsively refreshing a flight tracker) is functionally an essay about
+  scanxiety with a different object; "The Biology of Scale" explains why the
+  cancer world feels unmanageable and why small things help.
+- The reserved-person-who-decided-to-speak framing.
+- **The name "The Clinical Lens" still works** — it isn't politics-specific, so
+  no forced rebrand.
+
+### What doesn't survive
+- The political throughline and current-events hooks.
+- The "fake racial supremacy" bio.
+- The fear-and-authoritarianism thesis as the organizing idea.
+
+### Archive disposition — recommendation given, not yet decided
+16 political essays under a cancer-coaching masthead is dissonant, but deleting
+everything discards real writing. Suggested: unlist/delete the irreducibly
+political pieces; consider re-editing the 3–4 portable nervous-system essays
+with the political frame stripped out. Cleanest version is a fresh start plus a
+"why this is changing" opening post — that post is itself the strongest possible
+first piece for the new direction.
+
+## Open questions (asked 2026-07-24, not yet answered)
+
+1. **How much of her own story goes public** — her father's illness and death,
+   her own cancer? This determines the whole voice of the relaunch. Once it's
+   out, it's out.
+2. **Archive:** delete, unlist, or keep the political essays?
+3. **Is cancer coaching a business or a newsletter?** If she ever takes money to
+   advise individuals, the liability and regulatory posture changes
+   substantially versus writing publicly. Materially changes the advice.
