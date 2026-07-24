@@ -92,6 +92,44 @@ rather than an easy fix.
 
 ---
 
+---
+
+## Found on close reading (2026-07-24) — three additions
+
+### 1. "Coming Down the Hill" publishes her own medical history in detail
+The essay describes a two-week hospitalization, a presentation nobody could
+explain, tests that came back empty, recovery on high-dose prednisone, and "my
+body… appeared to be attacking itself." **This directly contradicts the
+disclosure boundary she set on 2026-07-24** (own health kept to the agreed
+formulation only). It predates the boundary, so it isn't an inconsistency on her
+part — but it is already public and needs a decision of its own. It is also the
+essay that says "I'll write about that sometime," which now reads as a promise
+she may not want to keep.
+
+### 2. "The Biology of Scale" ends with a campaign endorsement — and a location
+The closing paragraphs donate to a named congressional campaign, link
+`electemilyrandall.com`, and identify **Washington's 6th Congressional
+District** as "our area." Two separate problems in one passage:
+- An explicit partisan endorsement, inconsistent with the pivot.
+- A hard geographic narrowing. Combined with "the subdivision was built in 1934…
+  to support the naval shipyard" (Coming Down the Hill), the island references,
+  and the Seattle Times, this locates her closely.
+
+Note this essay is otherwise on the **portable** list — the tweezers-and-stickers
+passage is lovely and genuinely about coping with overwhelm. Cut the ending, keep
+the essay.
+
+### 3. Unexplained promotional plug in "The Geopolitics of D.A.R.V.O."
+Mid-essay: a pitch for a "Discombobulator" tool at `CatsupFarmsFreedomLab.com`,
+written in a first-person **plural** voice ("We use it ourselves every day") that
+does not match her register anywhere else in the archive. Worth confirming what
+this is — a sponsorship, something pasted in error, or something she did not put
+there. Any of the three matters: promotional links inside essays sit badly with
+"evidence first, always," and would sit far worse in a newsletter for cancer
+patients, where readers are actively targeted by people selling things.
+
+---
+
 ## Sequence
 
 1. Tier 1 Notes (4 items)
