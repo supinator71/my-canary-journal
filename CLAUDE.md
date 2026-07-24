@@ -184,6 +184,33 @@ autobiographical trauma. One honest sentence about her stake (cancer is in the
 family; she has been in the waiting room and been the patient) is enough up
 front. **Do not push for the origin essay.**
 
+### The thesis, in her own words (2026-07-24)
+
+Articulated in conversation and worth preserving exactly, because it is the
+organizing idea of the new publication:
+
+> Doctors are good. Oncologists are amazing. The majority of doctors are very
+> good. But in the American health care system, things are valued in ways they
+> shouldn't be — and *that* is why people don't get straight answers to "what is
+> the next step?" and "what are the chances?"
+
+Two things make this the right posture:
+1. **Structural critique without villains.** Not a doctor-bashing newsletter, and
+   not naive either. The failure is systemic — how time, reimbursement, and
+   fragmentation are valued — not personal. This is a far more durable position
+   than her old political register, and it keeps her colleagues as allies.
+2. **It is the same thesis she already had.** "Health is housing. Health is
+   safety. Health is being believed" applied to cancer. People don't get answered
+   because the system isn't built to answer them, exactly as her patients didn't
+   get better because of a diagnosis. The through-line is intact.
+
+The two named unanswered questions — **"what is the next step?"** and **"what are
+the chances?"** — are the core content territory. Sequencing and prognosis.
+
+**Her own phrase for the role: "the cancer whisperer."** Self-applied, wry,
+accurate. Excellent as an in-essay aside; would be a slight overclaim as a
+masthead or title, since it implies special insight rather than navigation.
+
 ### Disclosure boundary (decided 2026-07-24) — IMPORTANT, follow exactly
 
 **Open — write freely about:**
@@ -196,6 +223,10 @@ front. **Do not push for the origin essay.**
 **Limited — the agreed formulation and no further:**
 - Her own cancer: that she had it, that she is in remission, and that it was
   emotionally very difficult. **That is the whole of it.**
+- *Refined 2026-07-24:* the **patient's-eye experience is available** — being in
+  the hospital bed, the waiting, what it is like to be the one being talked
+  about, the general perspective of having been on that side. What stays closed
+  is the **medical particulars**. Experience yes, chart no.
 - **Do not** write or draft specifics of her own diagnosis — type, stage,
   treatment, dates, prognosis, current surveillance. As a physician she does not
   want her own health particulars public. Do not infer or invent them, and do not
