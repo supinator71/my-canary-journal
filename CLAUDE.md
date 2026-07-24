@@ -150,6 +150,40 @@ politics — "I'm not a politics person."
   cancer (or loving someone who does) is bewildering to navigate. The newsletter
   formalizes something she's been doing for years.
 
+### Working method — DECIDED 2026-07-24
+
+**Draft by interview, not by prompt.** She has worked with Claude on writing
+before and this is what produces authentic-sounding results for her. The process:
+ask questions, let her talk (she dictates, and her speech carries her voice
+signature — the dry asides and clinical parentheticals arrive naturally), then
+draft from her actual phrasings and let her cut.
+
+What makes it work: **ask for scenes, not opinions.** Specific moments, specific
+phone calls, what someone actually said, what the room looked like. Her openings
+are always a concrete image, and the detail she'd never think to include because
+it's obvious to her is usually the one worth building on. Abstract questions
+produce abstract answers and generic prose.
+
+### Entry point — DECIDED 2026-07-24: no father-origin essay up front
+
+She loves the cancer-coaching direction but **does not want to open the pivot on
+her own family history.** The entry point is instead the thing that has actually
+been constant: *she has been the person friends and family call when someone gets
+a diagnosis, for as long as she has been a doctor.*
+
+Treat this as a craft improvement, not a concession:
+- "My father died and now I write about cancer" is the expected move in health
+  writing, and it reads as credential-by-grief.
+- Being the person people call is the real differentiator, and it's about the
+  reader's need rather than her history.
+- Her father and her own illness lose nothing by waiting — deployed later, in an
+  essay where they are load-bearing rather than credentialing, they land harder.
+
+The vignette-first principle still governs; the vignette simply isn't
+autobiographical trauma. One honest sentence about her stake (cancer is in the
+family; she has been in the waiting room and been the patient) is enough up
+front. **Do not push for the origin essay.**
+
 ### Disclosure boundary (decided 2026-07-24) — IMPORTANT, follow exactly
 
 **Open — write freely about:**
