@@ -118,6 +118,12 @@ de-identified. If they are, unlisting is enough. If you are unsure, delete.
 
 # Phase 3 — Essays: keep and edit
 
+Two separate passes here: **3A** replaces political triggers and strips risky
+details; **3B/3C** are craft line-edits (repetition, endings) that apply to every
+kept essay including the ones staying as-is.
+
+## 3A. Content and risk edits
+
 Each of these survives with the political trigger replaced by an illness-based
 one. Ordered by how little work each needs.
 
@@ -142,6 +148,63 @@ one. Ordered by how little work each needs.
       systems and not being believed. Needs a non-cable-news opening.
 - [ ] **4/16 — How I Caught My Own Brain Settling** — mechanism is general; the
       ICE trigger must be replaced entirely.
+
+## 3B. Line-edit pass — repetition
+
+Measured across the kept essays. **Repetition scales almost exactly with length
+here**, which is the empirical case for the 1,500–2,000 target:
+
+| Essay | Words | Repetition |
+|---|---|---|
+| Dysregulation in the Wild | 1,739 | almost none — your cleanest piece |
+| The Wrong Name for the Right Fear | 2,329 | minimal, one clustered passage |
+| The Biology of Scale | 2,582 | moderate |
+| How I Caught My Own Brain Settling | 3,186 | mostly appendix-vs-body |
+| The Drug I Did Not Know I Was On | 4,097 | heavy thesis restatement |
+| The Biology of the Freeze | 4,221 | heavy mechanism restatement |
+
+**First, the distinction that matters.** Not all repetition is a defect. In
+"Coming Down the Hill," *"…is not consistent with any of this"* lands three times
+in three parallel sentences — that's deliberate anaphora, it escalates, and it
+works. **Keep it.** The test: intentional repetition is structurally parallel and
+builds; accidental repetition is a callback reused because you'd forgotten you
+already spent it. Cut the second kind only.
+
+- [ ] **Coming Down the Hill** — the Storage Wars / sports cards / 3 AM thrillers
+      cluster appears three times: once told in full, then two compressed
+      callbacks. Keep the full telling and **one** callback; cut the other. Also
+      "…has not agreed to participate in this research" runs twice in the body
+      plus once in the signature line — that's three uses of one joke in one
+      piece. Keep the signature, cut one body use.
+      *Keeping the essay doesn't mean not tightening it — the content stays, the
+      prose gets cleaner.*
+- [ ] **The Biology of the Freeze** — the mechanism gets re-explained rather than
+      advanced: "nervous systems evolved to regulate in contact with…", "from
+      your brainstem down into your chest", "a population that never gets to…",
+      "in low-grade alarm longer than it…" each recur. Say each once, then move.
+      This is the single biggest cut available — should lose 30–40%.
+- [ ] **The Drug I Did Not Know I Was On** — same pattern: "an environment that
+      did not exist when…" three times, "your brain is doing exactly what it was
+      built to do" twice. The essay restates its own thesis instead of
+      developing it. Also trims hardest.
+- [ ] **The Biology of Scale** — "a Rolife miniature bar scene" three times; the
+      product name only needs to land once. The "scale of the corruption is so
+      massive / physical proximity so distant" construction repeats — pick the
+      better instance.
+- [ ] **How I Caught My Own Brain Settling** — the repetition here is almost
+      entirely the **Canary Journal appendix restating the essay body** (the
+      AI-generated Jesus image, the threat to an entire civilization, all
+      reappear verbatim). Concrete proof of the appendix problem in 4D. Fixing
+      the appendix fixes this essay.
+- [ ] **The Wrong Name for the Right Fear** and **Dysregulation in the Wild** —
+      no repetition work needed. Leave them.
+
+## 3C. Line-edit pass — the flinch
+
+- [ ] Check every ending for the extra beat that softens the landing. The model
+      case is "Coming Down the Hill": *"Not the writing. The silence."* is the
+      ending — the *"Was I complicit?"* that follows is the flinch. Cut it. Do
+      this pass on every kept essay; it's the same habit each time.
 
 ## Keeping as-is — decided
 

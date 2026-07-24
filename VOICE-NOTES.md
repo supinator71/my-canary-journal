@@ -43,6 +43,17 @@ agreed to participate in this research" joke runs twice in the body plus the
 signature. Her callback instinct is good; the discipline is to vary or cut the
 third use.
 
+*But distinguish the two kinds.* In the same essay, "…is not consistent with any
+of this" lands three times across three parallel sentences — deliberate anaphora,
+it escalates, it works. Keep that. The test: intentional repetition is
+structurally parallel and builds; accidental repetition is a callback reused
+because the earlier use was forgotten.
+
+*Measured across the archive, repetition scales almost exactly with length* —
+her 1,700-word essay is nearly clean, her 4,200-word essay restates its own
+mechanism four separate times. Length is the root cause; cutting length fixes
+most of it automatically.
+
 **3. The flinch.** She lands a strong ending and then adds one more beat that
 softens it. "…started to feel like the thing that was inconsistent. Not the
 writing. The silence." — perfect. Then: "Was I complicit?" Trust the landing;
