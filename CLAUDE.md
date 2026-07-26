@@ -211,6 +211,25 @@ the chances?"** — are the core content territory. Sequencing and prognosis.
 substitute. Resources, attention, and time assigned where they don't do the
 work. Use it.
 
+### The mission statement, in her own words (2026-07-24)
+
+She manages and monitors her own mother's medical care, and said:
+
+> What if I was a school teacher and hadn't really learned all that medicine?
+> Who would do it then?
+
+**That is the reason the publication exists.** Having a doctor in the family is
+itself a health determinant, and it is distributed by luck. The newsletter is for
+everyone who doesn't have one. This belongs on the About page — it's better than
+anything drafted for it, and it puts the reader's need first rather than her
+credentials or her history.
+
+Related and load-bearing: she wants this to work **regardless of the reader's
+politics — explicitly including people whose beliefs she finds repellent.**
+That reframes the depoliticization entirely: it is not caution or retreat, it is
+a mission decision. Her political register would exclude people she wants to
+help. Tell her this when she doubts the pivot.
+
 **Current work context:** she also works in the public sector / for the state,
 with Medicaid and Medicare patients, retirees, and underserved populations. This
 is both material (she sees the allocation problem daily) and a reason the
