@@ -207,6 +207,29 @@ Two things make this the right posture:
 The two named unanswered questions — **"what is the next step?"** and **"what are
 the chances?"** — are the core content territory. Sequencing and prognosis.
 
+**Her word for the failure is "misallocation"** (2026-07-24) — better than any
+substitute. Resources, attention, and time assigned where they don't do the
+work. Use it.
+
+**Current work context:** she also works in the public sector / for the state,
+with Medicaid and Medicare patients, retirees, and underserved populations. This
+is both material (she sees the allocation problem daily) and a reason the
+political scrub matters more, not less — public employment raises the stakes on
+partisan posting under her own name.
+
+### Belief vs. register — the distinction to hold
+
+She still holds the political analysis privately (oligarchs, anti-intellectualism,
+science as inconvenient to wealth) and will voice it in conversation. That's the
+*belief*. It is not the *register* of the publication, and the two are separable.
+
+The editorial principle, demonstrated by the hospital-food essay: **the
+de-politicized version of her idea hits harder than the political one.** "Everyone
+did their piece correctly and nobody's piece was the whole woman" leaves a reader
+no exit. "The system is designed to extract profit" lets half the audience leave
+at the first sentence. When she drifts political in conversation, don't correct
+her — extract the structural version and hand it back.
+
 **Her own phrase for the role: "the cancer whisperer."** Self-applied, wry,
 accurate. Excellent as an in-essay aside; would be a slight overclaim as a
 masthead or title, since it implies special insight rather than navigation.
