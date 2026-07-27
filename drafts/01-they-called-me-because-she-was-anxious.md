@@ -1,20 +1,27 @@
 # They Called Me Because She Was Anxious. She Hadn't Eaten in Two Days.
 
-*DRAFT 1 — for you to shred. Places where I invented texture rather than using
-something you told me are marked in [brackets]. Replace them with what actually
-happened, or cut them.*
+*DRAFT 2 — intern-year texture and the morning consult corrected per your notes.
+One bracket left, in the personal-stake sentence near the end. Everything else
+is yours or is structure.*
 
 ---
 
-Every psychiatrist does a year of internal medicine before they get to be a
-psychiatrist. Mine was the year I lived on the units — [nights, pager, the
-particular fluorescent boredom of a hospital at 3 a.m.] — and it is still, two
-decades later, where a disproportionate number of the things I know came from.
+Every psychiatrist does a year of general medicine before they get to be a
+psychiatrist. One year on the medical units, then three years of psychiatry
+after it. Intern year.
 
-I got a call one [evening] about a woman on the urology service. Sixty-five,
-maybe sixty. Very slight. She was in for a procedure, she had a documented
-history of anxiety and depression, and the team had noted that she seemed
-anxious. So they called psychiatry, which is what you do.
+Mine was, honestly, a pleasure. I spent it with the medicine interns and the
+specialty fellows, and I liked them, and I liked the work. It was tiring in the
+way that year is tiring for everyone. It was also where a disproportionate number
+of the things I actually know came from, which I did not appreciate at the time.
+
+The consult came in first thing in the morning. A woman on the urology service —
+sixty-five, maybe sixty. Very slight. She was in for a procedure, she had a
+documented history of anxiety and depression, and the team had seen her on
+rounds and noted that she seemed anxious. So they called psychiatry, which is
+what you do.
+
+Nothing about this was unusual. That's the part worth holding onto.
 
 I went up. I sat down. I asked her how she was doing.
 

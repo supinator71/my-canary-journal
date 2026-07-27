@@ -64,11 +64,6 @@ anyone you love. This is general education — how the system works, what to ask
 what to expect — and the most useful thing I can usually give you is a better
 question to bring to your own team.
 
-I also don't care who you vote for. Whatever you believe, whoever you supported,
-you deserve to understand what's happening inside your own body and to get the
-care you need. This isn't that kind of newsletter and it isn't going to become
-one.
-
 Send me questions. I'll answer the general question underneath the specific one —
 publicly, and without ever publishing your details.
 
