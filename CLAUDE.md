@@ -380,3 +380,90 @@ This doubles as a content engine: reader questions → general-education essays,
 the classic advice-column structure, and it addresses the underserved-gap
 problem she identified (patients get pamphlets and terrifying search results;
 the "what does this mean and what happens next" layer is missing).
+
+## The Canary Journal — KEPT, re-pointed (2026-07-24)
+
+She enjoys writing the field notes, which is reason enough to keep the format —
+a format the writer likes is one that still exists in six months. The problems
+were execution, not concept:
+
+- **It was an appendix.** Bolted to the end of an essay, it restated the essay
+  (in "How I Caught My Own Brain Settling" the AI-Jesus image and the
+  civilization line appear verbatim in both). **Fix: make it a standalone post.**
+  The echo problem disappears when there's no essay above it.
+- **The prompts were politics-specific** ("what happened this week that would
+  have shocked me a year ago"). Re-point them to noticing, illness, and the
+  system.
+
+**Suggested cadence:** essays every other week, field notes on the off weeks.
+One heavy lift per fortnight, one light one between, weekly presence. Realistic
+for the few-hours-a-week budget she described.
+
+### The canary metaphor — verified, and it inverts the cliché
+
+Researched 2026-07-27; full brief in Google Drive ("Research Brief: The Canary
+Resuscitator"). Core facts:
+
+- **John Scott Haldane**, respiration physiologist, investigated the **1896
+  Tylorstown Colliery** explosion in Wales, traced it to carbon monoxide, and
+  proposed small animals as sentinels.
+- Canaries chosen on **physiology** — very high oxygen demand, efficient
+  respiration, so toxins circulate faster and the bird registers gas well before
+  a human. *Its job was to be more sensitive than everyone else in the room.*
+- **Haldane designed a resuscitator cage**: clear enclosure, circular door held
+  open in normal use, **small oxygen cylinder mounted on top**. When the bird
+  faltered, the miner shut the door and opened the valve. **The bird was brought
+  back.** It was never meant to die. Surviving cages are in UK museum collections.
+- **Miners kept them as pets** and whistled to them while working (Christal
+  Pollock, *Journal of Avian Medicine and Surgery*).
+- **Retired 30 Dec 1986** by British law in favour of electronic detectors,
+  ~200 birds still working, phased out over about a year. Replaced by something
+  better, not used up.
+
+**Why it fits the new direction:** the patient is the canary. They notice before
+the chart does. The sensitivity is the qualification, not the frailty. When the
+canary faltered nobody argued with it or noted its anxiety history — they acted,
+and the oxygen was already attached. The failure is a system that hears the
+singing stop and doesn't reach for the valve. This is "health is being believed"
+in a single image.
+
+*Sourcing caveat:* many accessible write-ups are popular-press retellings of the
+same few originals, and the museum/Smithsonian pages blocked automated access.
+Before printing a specific date or figure, confirm against the Science Museum
+Group record (object co8412250) and the Pollock paper. She has said she'll do
+this herself.
+
+## YouTube strategy (2026-07-24)
+
+Existing `clinicallens` channel. **Evergreen and search-driven, not trending** —
+"what actually happens at your first oncology appointment," "what does staging
+mean," "what is a tumor board and why does it decide your treatment." These
+questions are asked by new frightened people every day, forever, so the content
+compounds instead of decaying. Same general-education lane as the newsletter.
+**One essay converts to one video** — one piece of thinking, two outputs.
+
+## Work produced so far (2026-07-27)
+
+In `drafts/`, and mirrored as Google Docs in her Drive:
+- **Essay 1 — "They Called Me Because She Was Anxious. She Hadn't Eaten in Two
+  Days."** The intern-year psych consult that turned out to be an unentered diet
+  order. Doubles as the pivot post: demonstrates the service, then names it.
+  ~1,490 words, finished.
+- **Essay 2 — "You Nodded in the Office. The Questions Came at 3 A.M."** Why
+  questions can't be formed in the appointment and surface hours later; concrete
+  workarounds. ~1,390 words. One `[CITE]` flag on patient-recall research.
+- **Site copy v2** — settled tagline, bio, About page, plus where each field
+  lives in the Substack UI.
+
+**Settled copy:**
+- Tagline: *Serious illness, and the questions that don't come with the diagnosis.*
+- Bio: *Some people have a doctor in the family. This isn't that — it's the
+  closest I can get you.*
+- About page opens on the doctor-in-the-family inequity and the schoolteacher
+  question.
+- Her line, kept: *The system doesn't hand you a clean notebook of what comes
+  next.*
+
+**Working preference:** deliver drafts as **Google Docs in her Drive**, not
+markdown files — she edits there and the round trip works both directions
+(`mcp__Google_Drive__read_file_content` reads her edits and comments back).
