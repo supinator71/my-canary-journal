@@ -20,7 +20,7 @@ publication repoints to cancer coaching. Supersedes and folds in the earlier
 
 *Notes → your profile → ⋯ on each → Delete. Restacks: open → ⋯ → Undo restack.*
 
-## 1A. Delete first
+## 1A. Delete first — ✅ DONE 2026-07-24
 
 - [ ] **Jul 4** — "20,000 children killed by another government… beholden to our
       oligarchs… same media suppression playbook as the Nazis. Wake the hell up."
