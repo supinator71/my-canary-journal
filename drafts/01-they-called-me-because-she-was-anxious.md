@@ -1,8 +1,6 @@
 # They Called Me Because She Was Anxious. She Hadn't Eaten in Two Days.
 
-*DRAFT 2 — intern-year texture and the morning consult corrected per your notes.
-One bracket left, in the personal-stake sentence near the end. Everything else
-is yours or is structure.*
+*DRAFT 3 — no placeholders left. Ready to read as a finished piece.*
 
 ---
 
@@ -126,9 +124,10 @@ Not because I am an oncologist. I am not, and I will be clear about that every
 time it matters. I am a board-certified general psychiatrist who has spent two
 decades watching what serious illness does to a nervous system and to a family,
 and who has spent roughly as long being the person friends and family call when
-somebody they love gets a phone call from a doctor. [Cancer runs in my family. I
-have been in the waiting room and I have been the patient in the bed.] That is
-the whole of my personal disclosure and I am not going to make you read a memoir.
+somebody they love gets a phone call from a doctor. Cancer runs in my family. I
+have been in the waiting room and I have been the patient in the bed. That is
+the whole of my personal disclosure, and I am not going to make you read a
+memoir.
 
 What I can do is the thing I did in that hospital room. Not treat you — I'm a
 doctor, I'm not your doctor, and that distinction is going to be load-bearing
