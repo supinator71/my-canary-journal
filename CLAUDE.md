@@ -401,24 +401,56 @@ for the few-hours-a-week budget she described.
 
 ### The canary metaphor — verified, and it inverts the cliché
 
-Researched 2026-07-27; full brief in Google Drive ("Research Brief: The Canary
-Resuscitator"). Core facts:
+**She did her own deep research (2026-07-27) and it supersedes the earlier brief.**
+Her timeline is more rigorous — the authoritative version lives in her own notes.
+Key corrections and additions to what was originally given her:
 
-- **John Scott Haldane**, respiration physiologist, investigated the **1896
-  Tylorstown Colliery** explosion in Wales, traced it to carbon monoxide, and
-  proposed small animals as sentinels.
-- Canaries chosen on **physiology** — very high oxygen demand, efficient
-  respiration, so toxins circulate faster and the bird registers gas well before
-  a human. *Its job was to be more sensitive than everyone else in the room.*
-- **Haldane designed a resuscitator cage**: clear enclosure, circular door held
-  open in normal use, **small oxygen cylinder mounted on top**. When the bird
-  faltered, the miner shut the door and opened the valve. **The bird was brought
-  back.** It was never meant to die. Surviving cages are in UK museum collections.
-- **Miners kept them as pets** and whistled to them while working (Christal
-  Pollock, *Journal of Avian Medicine and Surgery*).
-- **Retired 30 Dec 1986** by British law in favour of electronic detectors,
-  ~200 birds still working, phased out over about a year. Replaced by something
-  better, not used up.
+- **1895** — Haldane first proposed a warm-blooded sentinel; early lab work used
+  white mice.
+- **27 Jan 1896 — Tylorstown Colliery**, Wales. Coal dust and methane explosion,
+  **57 dead.** Haldane performed the autopsies and found tissue stained a
+  distinct **cherry-pink** — the signature of carboxyhaemoglobin. He concluded
+  **~90% of colliery-explosion deaths were carbon monoxide ("afterdamp")
+  poisoning, not trauma.** Canaries deployed in British mines from that year.
+- **1911 — Coal Mines Act** legally required collieries with 100+ underground
+  workers to keep "two or more small birds." Not custom — statute.
+- **1914** — US Bureau of Mines published comparative testing (canaries, mice,
+  guinea pigs, chickens, dogs, pigeons) in *J. Industrial and Engineering
+  Chemistry*, confirming canaries as most sensitive.
+- **The resuscitator was built by Siebe Gorman & Co. Ltd** (London) to Haldane's
+  design: aluminium box, thick glass on three sides, circular front door with
+  wire mesh latched open on patrol, small steel oxygen cylinder on top with a
+  manual needle valve. Bird collapses → door swung shut against a rubber gasket
+  → valve opened → **revived within seconds** while the miners escaped.
+- **CORRECTION to the earlier brief:** 30 Dec 1986 was the National Coal Board's
+  *announcement* of the phase-out (~200 birds). **Legal retirement came in
+  February 1996**, under the Escape and Rescue from Coal Mines Regulations 1995.
+  A decade apart — do not conflate them.
+- **~20 minutes of warning**: the bird shows systemic hypoxia — *cessation of
+  song*, swaying, collapse — roughly 20 minutes before a human notices anything.
+- **Why so sensitive:** unidirectional flow-through ventilation, nine air sacs
+  acting as bellows, a two-cycle breathing loop, cross-current gas exchange, a
+  blood-gas barrier as thin as ~0.1 µm, ~10× the exchange surface area relative
+  to lung volume, ~60–80 breaths/min, resting heart rate ~274 bpm. **The
+  sensitivity comes from a *superior* respiratory system, not a frail one.**
+- **Other sentinels:** Colorado miners used house mice and pack rats — relied on
+  for *structural* warning, since acute hearing caught timbers cracking before a
+  cave-in. Some British/European collieries preferred wild-caught **redpolls**
+  as more reactive than domesticated canaries (Dundee, 1923).
+- **After retirement**, veteran miners objected: *"batteries can fail — canaries
+  don't."* Collieries kept aviaries at the pit head long after the birds were
+  banned from going down.
+
+**Best images for writing:** the cherry-pink tissue (the body records what
+happened if you know how to read it); *cessation of song* as the first sign, not
+collapse — trouble announces itself as **silence**; the 20-minute head start;
+and the fact that the bird's sensitivity is superior equipment rather than
+weakness.
+
+*One figure to verify before print:* heart rate described as "up to 100× faster
+than a human's during activity" doesn't reconcile with ~274 bpm resting versus a
+human's ~70 (that's ~4×). Likely a garbled source. The resting figure is fine;
+drop or fix the 100× claim.
 
 **Why it fits the new direction:** the patient is the canary. They notice before
 the chart does. The sensitivity is the qualification, not the frailty. When the
