@@ -499,3 +499,26 @@ In `drafts/`, and mirrored as Google Docs in her Drive:
 **Working preference:** deliver drafts as **Google Docs in her Drive**, not
 markdown files — she edits there and the round trip works both directions
 (`mcp__Google_Drive__read_file_content` reads her edits and comments back).
+
+### Essay 3 — edited for publish (2026-10-21)
+
+**"I Was Checking His Blood for a Side Effect. It Was Leukemia."** Her draft
+("We Watch the Blood When Nothing Is Happening") pairs a community-mental-health
+vignette (routine labs on quetiapine caught a young man's ALL) with Nathan
+Fielder's Holmes documentary *You Can See Everything* (A24, Oct 2026). Publish
+copy and launch kit are in `drafts/03-*` and as Google Docs in her Drive; her
+original draft doc is untouched. Paired with her one-page **Corner Kit: Lab
+Tests** PDF (a series name; lead magnet linked at the end of the essay).
+
+Decisions and lessons from this edit, worth carrying forward:
+- **Patient vignettes are de-identified by default** (her choice): generalize
+  age, drop titles that identify the employer, drop regimen names, and add one
+  footer line, *"Identifying details have been changed."*
+- **Goldwater Rule:** the draft called Holmes's personality disorder. Never
+  characterize a public figure clinically. The replacement line worked well
+  and is reusable: *"I have not examined her, and I don't diagnose people from
+  documentaries."*
+- **Fact-check AI-assisted research drafts line by line.** This one had three
+  wrong citations, an anachronism, an unsourced statistic, and a spoiler.
+- Her structural line, built on *misallocation*: "Each layer assumed another
+  layer had done the checking."
